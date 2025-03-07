@@ -1,0 +1,309 @@
+[
+    {
+        "name": "Pongal",
+        "prep_time": "5 mins",
+        "cook_time": "30 mins",
+        "servings": 6,
+        "ingredients": [
+          { "item": "Dosa Rice/Ration Rice", "quantity": "1 cup" },
+          { "item": "Moong Dal", "quantity": "1 cup" },
+          { "item": "Water", "quantity": "5 cups" },
+          { "item": "Salt", "quantity": "to taste" }
+        ],
+        "seasoning_ingredients": [
+          { "item": "Cashew Nuts", "quantity": "1/3 cup" },
+          { "item": "Cumin Seeds", "quantity": "1 tbsp" },
+          { "item": "Ghee", "quantity": "1/2 cup" },
+          { "item": "Pepper", "quantity": "1 tbsp" },
+          { "item": "Curry Leaves", "quantity": "2 sprigs" },
+          { "item": "Asafoetida", "quantity": "2 pinches" },
+          { "item": "Grated Ginger", "quantity": "1 tbsp" }
+        ],
+        "instructions": [
+          "Wash the rice well and soak for 30 minutes.",
+          "Roast the moong dal in a pan on a low flame until it gives out an aroma. Then wash the dal.",
+          "If cooking separately, in a thick-bottomed vessel, add 5 cups of water. Add salt, washed rice, washed moong dal, and cook on medium flame for 30 minutes, stirring occasionally.",
+          "Once the rice is cooked well, switch off the stove and set it aside.",
+          "If cooking in a pressure cooker, add all the ingredients and cook up to 5 whistles.",
+          "Melt ghee and add seasoning ingredients. Fry well and mix the seasoned ghee into the cooked Pongal."
+        ],
+        "quantity": "6 servings",
+        "offering_time": "Breakfast"
+      },
+      {
+        "name": "Prasadam Pulihora",
+        "prep_time": "5 mins",
+        "cook_time": "30 mins",
+        "resting_time": "15 mins",
+        "total_time": "35 mins",
+        "servings": 4,
+        "ingredients": [
+          { "item": "Rice", "quantity": "250 gms" },
+          { "item": "Oil", "quantity": "1/4 cup" },
+          { "item": "Curry Leaves", "quantity": "2 sprigs" },
+          { "item": "Green Chillies", "quantity": "3" },
+          { "item": "Turmeric", "quantity": "1 tsp" },
+          { "item": "Salt", "quantity": "to taste" },
+          { "item": "Tamarind", "quantity": "50 gms" }
+        ],
+        "first_seasoning": [
+          { "item": "Oil", "quantity": "2 tsp" },
+          { "item": "Mustard Seeds", "quantity": "1/2 tsp" },
+          { "item": "Fenugreek Seeds", "quantity": "1 tsp" },
+          { "item": "Curry Leaves", "quantity": "1 sprig" },
+          { "item": "Asafoetida", "quantity": "1/2 tsp" }
+        ],
+        "second_seasoning": [
+          { "item": "Oil", "quantity": "1/4 cup" },
+          { "item": "Mustard Seeds", "quantity": "1/2 tsp" },
+          { "item": "Groundnuts", "quantity": "1/4 cup" },
+          { "item": "Bengal Gram", "quantity": "1 tbsp" },
+          { "item": "Black Gram", "quantity": "1 tbsp" },
+          { "item": "Red Chillies", "quantity": "5" },
+          { "item": "Curry Leaves", "quantity": "1 sprig" }
+        ],
+        "mustard_seasoning": [
+          { "item": "Mustard Seeds", "quantity": "2 tsp" },
+          { "item": "Red Chillies", "quantity": "1" },
+          { "item": "Ginger", "quantity": "1 inch" },
+          { "item": "Salt", "quantity": "a little" }
+        ],
+        "instructions": [
+          "Soak the tamarind in hot water and extract 250 ml of tamarind juice.",
+          "Wash the rice and cook with two cups of water per cup of rice in a pressure cooker for 3 whistles.",
+          "Once the steam has gone out of the rice, add turmeric, oil, green chillies, curry leaves, and salt while the rice is still hot.",
+          "Grind mustard seeds, red chillies, ginger, and a little salt into a soft paste.",
+          "Heat 2 tsp oil in a pan, roast mustard seeds and fenugreek seeds, then add curry leaves.",
+          "Pour in the tamarind extract, add grated jaggery, and cook until it thickens into a paste.",
+          "Once the tamarind mixture thickens, add the mustard seed paste and cook thoroughly. Switch off the stove and allow it to cool completely.",
+          "Mix the cooled tamarind mixture well into the rice.",
+          "For the second seasoning, heat 1/4 cup oil, add mustard seeds and let them crackle.",
+          "Add groundnuts, Bengal gram, and black gram and roast them.",
+          "Add red chillies and curry leaves, fry them, and add the seasoning to the rice.",
+          "Mix well, and your Prasadam Pulihora is ready to serve."
+        ],
+        "quantity": "4 servings",
+        "offering_time": "Lunch / Prasadam"
+      },
+      {
+        "name": "Curd Rice (Thayir Sadam)",
+        "prep_time": "2 mins",
+        "cook_time": "20 mins",
+        "resting_time": "20 mins",
+        "servings": 10,
+        "ingredients": [
+          { "item": "Curds (Prepared with Cow’s Milk)", "quantity": "1/2 litre" },
+          { "item": "Rice", "quantity": "1/2 cup (100 gms)" },
+          { "item": "Salt", "quantity": "2 spoons" },
+          { "item": "Peppercorns", "quantity": "1 tbsp" },
+          { "item": "Ginger", "quantity": "1 1/2 spoons" },
+          { "item": "Water", "quantity": "3-4 cups" }
+        ],
+        "instructions": [
+          "Soak the rice for one hour.",
+          "Cook the rice in water at a 1:4 ratio. If using a pressure cooker, use three measures of water for one measure of rice.",
+          "Add all ingredients except the curds to the cooked rice and allow it to cool down completely.",
+          "Once the rice reaches room temperature, mix in the curds and a little chopped coriander leaves.",
+          "Offer the Prasadam to Mother Goddess, then serve to yourself and others."
+        ],
+        "quantity": "10 servings",
+        "offering_time": "Lunch / Prasadam"
+      },
+      {
+        "name": "Sooji Halwa (Rava Kesari)",
+        "prep_time": "1 min",
+        "cook_time": "25 mins",
+        "servings": 6,
+        "ingredients": [
+          { "item": "Semolina (Bombay Rava)", "quantity": "1 cup" },
+          { "item": "Sugar", "quantity": "1.5 cups" },
+          { "item": "Ghee", "quantity": "3/4 cup (or 1 cup)" },
+          { "item": "Hot Water", "quantity": "3 cups" },
+          { "item": "Cashew Nuts", "quantity": "15" },
+          { "item": "Raisins", "quantity": "15" },
+          { "item": "Cardamom Powder", "quantity": "1/4 tsp" }
+        ],
+        "instructions": [
+          "Put half the ghee in a kadhai and roast semolina, cashew nuts, and raisins together on a low flame until they turn a light golden color. This may take approximately 15 minutes for the semolina to roast well.",
+          "Add boiling hot water to the roasted semolina and cook until the water gets absorbed.",
+          "Add sugar after the semolina becomes soft and mix well. Let it cook until the mixture becomes smooth and close.",
+          "Add cardamom powder, yellow food color, and the remaining ghee. Cook on medium flame.",
+          "Once the ghee floats to the top, remove from the stove."
+        ],
+        "quantity": "6 servings",
+        "offering_time": "Dessert / Prasadam"
+      },
+      {
+        "name": "Tamarind Rice (Ava Pulihora)",
+        "prep_time": "10 mins",
+        "cook_time": "40 mins",
+        "resting_time": "30 mins",
+        "servings": 30,
+        "ingredients": {
+          "to_cook_rice": [
+            { "item": "Rice", "quantity": "1 kg" },
+            { "item": "Water", "quantity": "2 liters + 100 ml" },
+            { "item": "Turmeric", "quantity": "1 tsp" }
+          ],
+          "tamarind_paste": [
+            { "item": "Seedless Tamarind", "quantity": "120 gm" },
+            { "item": "Hot Water", "quantity": "200 - 250 ml" }
+          ],
+          "mustard_paste": [
+            { "item": "Mustard Seeds", "quantity": "60 gm" },
+            { "item": "Ginger", "quantity": "1.5 inch" },
+            { "item": "Red Chilies", "quantity": "2" },
+            { "item": "Turmeric", "quantity": "1/2 tsp" },
+            { "item": "Salt", "quantity": "a little" },
+            { "item": "Hot Water", "quantity": "a little" },
+            { "item": "Oil", "quantity": "2 tbsp" }
+          ],
+          "tamarind_rice": [
+            { "item": "Salt", "quantity": "2.5 tsp (or to taste)" },
+            { "item": "Oil", "quantity": "1/4 cup" },
+            { "item": "Green Chilies", "quantity": "7-8 (slit)" },
+            { "item": "Curry Leaves", "quantity": "3 sprigs" }
+          ],
+          "seasoning": [
+            { "item": "Sesame Oil/Groundnut Oil", "quantity": "3/4 cup" },
+            { "item": "Groundnut", "quantity": "3/4 cup" },
+            { "item": "Mustard Seeds", "quantity": "1.5 tbsp" },
+            { "item": "Black Gram", "quantity": "2 tbsp" },
+            { "item": "Raw Bengal Gram", "quantity": "2 tbsp" },
+            { "item": "Red Chilies", "quantity": "12-15" },
+            { "item": "Asafoetida", "quantity": "1 tsp" },
+            { "item": "Curry Leaves", "quantity": "2 sprigs" }
+          ]
+        },
+        "instructions": [
+          "Add hot water to tamarind and extract thick paste.",
+          "For mustard paste: add mustard seeds, ginger, red chilies, turmeric, salt, and a little hot water into a mixie, grind to make a smooth paste. Add oil after grinding and set aside.",
+          "Add water and turmeric to rice and cook on a high flame.",
+          "Mix the cooking rice gently, cover it, and pour water in it. Cook on medium flame until rice is 90% done. (Check the tips on how to cook rice).",
+          "Add oil to the cooked rice, mix gently, and spread it in a wide vessel. Add salt, green chilies, curry leaves, and tamarind paste. Mix slowly.",
+          "For seasoning: Add all seasoning ingredients to oil, roast well, and add to the rice. Then add the mustard paste, mix gently, and let it rest for 30 minutes to an hour.",
+          "After resting, the flavors of salt, turmeric, and mustard will stick well to the rice. Serve and enjoy the aromatic temple-style tamarind rice!"
+        ],
+        "quantity": "30 servings",
+        "offering_time": "Lunch / Prasadam"
+      },
+      {
+        "name": "Sweet Pongal",
+        "prep_time": "3 mins",
+        "cook_time": "30 mins",
+        "servings": 6,
+        "ingredients": [
+          { "item": "Rice", "quantity": "3/4 cup" },
+          { "item": "Green Gram", "quantity": "1/4 cup" },
+          { "item": "Water", "quantity": "2 cups" },
+          { "item": "Jaggery", "quantity": "1/2 cup" },
+          { "item": "Sugar", "quantity": "3/4 cup" },
+          { "item": "Water to melt Jaggery", "quantity": "1/4 cup" },
+          { "item": "Cardamom Powder", "quantity": "1 tsp" },
+          { "item": "Cashew Nuts", "quantity": "15" },
+          { "item": "Raisins", "quantity": "10" },
+          { "item": "Dry Coconut pieces", "quantity": "3 tbsp" },
+          { "item": "Yellow Camphor", "quantity": "A pinch" },
+          { "item": "Ghee", "quantity": "6 tbsp" }
+        ],
+        "instructions": [
+          "Roast the green gram on a low flame until it lets out a nice aroma.",
+          "Add rice to the roasted green gram and wash them. Cook on a high flame to three whistles.",
+          "Add some water to the sugar and jaggery and let the jaggery melt. Remove from the fire after it boils.",
+          "In the cooked green gram rice, strain the syrup and cook on a low flame until the syrup turns dark.",
+          "While the syrup is changing into a dark color, melt 3 tbsp of ghee in another pan and fry cashew nuts, raisins, and dry coconut pieces until golden. Add them to the cooking rice and let it cook for another 10 minutes.",
+          "Once the rice is cooked slowly in syrup and becomes thick, and the syrup is absorbed by the rice, add another 2 tbsp of ghee and cook for another 5 minutes.",
+          "Finally, add another 2 tbsp of ghee, cardamom powder, edible camphor, and mix well. Remove from the fire.",
+          "This sweet pongal stays fresh outside for at least three days even without refrigeration."
+        ],
+        "quantity": "6 servings",
+        "offering_time": "Dessert / Prasadam"
+      },
+      {
+        "name": "Talikalu",
+        "cook_time": "45 mins",
+        "servings": 8,
+        "ingredients": [
+          { "item": "Wet Rice Flour", "quantity": "1 cup" },
+          { "item": "Jaggery", "quantity": "1 cup" },
+          { "item": "Sago Pearls (Sabudana)", "quantity": "1 cup" },
+          { "item": "Milk", "quantity": "1/2 liter" },
+          { "item": "Water", "quantity": "250 ml" },
+          { "item": "Cardamom Powder", "quantity": "1 tsp" },
+          { "item": "Ghee", "quantity": "3 tsp" },
+          { "item": "Cashew Nuts", "quantity": "3 tsp" },
+          { "item": "Dry Coconut pieces", "quantity": "2 tsp" },
+          { "item": "Raisins", "quantity": "2 tsp" }
+        ],
+        "instructions": [
+          "Melt 2 tsp of jaggery with some water. Once it melts, add wet rice flour and switch off the stove. Stir it well. (Note that preparation of wet rice flour was mentioned in tips).",
+          "If the dough appears too hard, add some water and mix to make it soft.",
+          "Add water to the remaining jaggery and boil it fully. Remove it from the stove and let it cool.",
+          "Prepare marble-size lumps from the wet rice flour dough and roll them until they are long and slightly thick enough. Keep some wet flour aside.",
+          "Mix milk and water and bring it to a boil. Once boiling, add sago pearls that have been soaked for 30 minutes in water. Let them cook for about half.",
+          "Once the sago pearls are half-cooked, add prepared talikalu (rice flour lumps) to the milk and leave it undisturbed for 5 minutes.",
+          "After 5 minutes, stir slowly, close the lid, and let it boil for 12-15 minutes.",
+          "After 12 minutes, check the talikalu by cutting one with a spoon to ensure it has absorbed the milk. Once the talikalu has cooked through, mix the rice flour (set aside earlier) and water to make a lump-free batter. Add this to the talikalu and cook for another 5-6 minutes on low heat with the lid closed.",
+          "After 5-6 minutes, when it becomes thick, switch off the stove and add cardamom powder and cooled jaggery syrup. Mix gently.",
+          "Heat ghee in a separate pan and roast dry coconut pieces, cashew nuts, and raisins until they turn golden.",
+          "Add the roasted dry coconut, cashew nuts, and raisins to the talikalu and mix well.",
+          "Talikalu might appear raw when hot, but they will absorb more milk once they cool."
+        ],
+        "quantity": "8 servings",
+        "offering_time": "Dessert / Prasadam"
+      },
+      {
+        "name": "Appam (Rava Vada)",
+        "prep_time": "1 min",
+        "cook_time": "25 mins",
+        "resting_time": "15 mins",
+        "servings": 15,
+        "ingredients": [
+          { "item": "Bombay Rava", "quantity": "1 cup" },
+          { "item": "Sugar", "quantity": "1 cup" },
+          { "item": "Cardamom Powder", "quantity": "1/2 tsp" },
+          { "item": "Water", "quantity": "1 cup" },
+          { "item": "Oil", "quantity": "for frying" }
+        ],
+        "instructions": [
+          "Mix sugar and cardamom powder in the rava and set aside.",
+          "Pour a cup of water into a vessel and bring it to a boil.",
+          "Once the water is boiling, slowly pour in the rava while stirring continuously to prevent lumps.",
+          "Once the rava is smoothly mixed into the water, cover and let it cook for 3-4 minutes. Then, allow it to cool fully.",
+          "Once cooled, take the rava lump and apply oil to your hands.",
+          "Press the rava into the shape of small vadas (or appams).",
+          "Heat oil in a pan and fry the pressed appams on medium-high heat until golden brown.",
+          "Press the fried appams with a ladle to remove any excess oil.",
+          "Let the fried appams cool down completely; they will become crisp as they cool."
+        ],
+        "quantity": "15 servings",
+        "offering_time": "Snack / Prasadam"
+      },
+      {
+        "name": "Vermicelli Kesari",
+        "prep_time": "1 min",
+        "cook_time": "20 mins",
+        "servings": 4,
+        "ingredients": [
+          { "item": "Vermicelli", "quantity": "1 cup" },
+          { "item": "Water", "quantity": "2 cups" },
+          { "item": "Sugar", "quantity": "3/4 cup" },
+          { "item": "Cashew Nuts", "quantity": "1/4 cup" },
+          { "item": "Raisins", "quantity": "2 tbsp" },
+          { "item": "Ghee", "quantity": "2 tbsp" },
+          { "item": "Cardamom Powder", "quantity": "1 tsp" },
+          { "item": "Saffron", "quantity": "A pinch" }
+        ],
+        "instructions": [
+          "Melt ghee in a pan and roast the cashew nuts and raisins until they turn golden.",
+          "Add the vermicelli to the remaining ghee and roast it until golden brown.",
+          "In a separate pan, pour water and add saffron. Bring it to a boil on high flame.",
+          "Once the water is boiling, add the roasted vermicelli and cook on medium flame until some water remains.",
+          "Add sugar and cardamom powder, and continue to cook until it becomes thick.",
+          "Add the roasted cashew nuts and raisins, mix well, and remove from heat."
+        ],
+        "quantity": "4 servings",
+        "offering_time": "Dessert / Prasadam"
+      }
+      
+    ]
